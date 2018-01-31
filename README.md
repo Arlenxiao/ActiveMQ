@@ -1,8 +1,8 @@
 # ActiveMQ
 
 # 前提条件： 
-[1]apache-activemq-5.15.2
-[2]Apache.NMS.ActiveMQ-1.7.2-bin 
+[1]apache-activemq-5.15.2 
+[2]Apache.NMS.ActiveMQ-1.7.2-bin  
  
 # 启动 
   
